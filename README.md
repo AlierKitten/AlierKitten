@@ -5,3 +5,5 @@
 [![](https://stats.justsong.cn/api/bilibili/?id=233555220&)](https://space.bilibili.com/233555220)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlierKitten&theme=dark&layout=compact)
+
+![](https://activity-graph.herokuapp.com/graph?username=AlierKitten&theme=github)
