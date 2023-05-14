@@ -3,4 +3,4 @@
 [![](https://stats.justsong.cn/api/bilibili/?id=233555220&themes=light&lang=zh-CN)](https://space.bilibili.com/233555220)
 [![](https://stats.justsong.cn/api/csdn?id=AlierKitten&themes=light&lang=zh-CN)](https://blog.csdn.net/AlierKitten)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlierKitten&theme=rogue)](https://github.com/AlierKitten/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlierKitten&theme=rogue)]
